@@ -5,14 +5,14 @@ During the online ICLR this year, I got the chance to give a lightning talk on t
 
 My aim in the end of the talk was to start a discussion, on the challenges that the field faces in order to mature and allow for open work. 
 
-- You can see the over here my [NLP for CyberSecurity presentation](../blob/master/ICLR_Cybersecurity_NLP.pdf). Sorry for all the typos!
+- You can see the over here my [NLP for CyberSecurity presentation](./ICLR_Cybersecurity_NLP.pdf). Sorry for all the typos!
 
 I find there is much promise in the field, as I have been working in User Entity Behaviour Analytics (UEBA) as a software engineer for several years. To get a hold of the area, from a business perspective, there is a handy summary that is updated every year by Gartner. 
 
-- Read the [UEBA 2018 Market Guide](../blob/master/gartner-market-guide-for-ueba-2018-analyst-report.pdf) to see what the fuss is about.
+- Read the [UEBA 2018 Market Guide](./gartner-market-guide-for-ueba-2018-analyst-report.pdf) to see what the fuss is about.
 
 I find there is much more to see in applying Deep Learning to CyberSecurity in the future. Not just by repurposing NLP techniques, but by the entirety of the ML field.
 
-- Finally, have a look at the copy of [A Comprehensive Tutorial and Survey of Applications of Deep Learning for Cyber Security in 2020](../blob/master/IEEE_DL_Survey_exact.pdf), where there is a well structured organization of the intersection of the two fields.
+- Finally, have a look at the copy of [A Comprehensive Tutorial and Survey of Applications of Deep Learning for Cyber Security in 2020](./IEEE_DL_Survey_exact.pdf), where there is a well structured organization of the intersection of the two fields.
 
 Thanks for reading.
